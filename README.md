@@ -81,6 +81,4 @@ ramo 3 teste
 
 
 
-ramo 3 teste
 
-![imgramo3](https://nobug.com.br/wp-content/uploads/2021/12/qual-o-melhor-banco-de-dados.jpg)
